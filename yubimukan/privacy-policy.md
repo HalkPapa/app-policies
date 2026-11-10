@@ -51,4 +51,5 @@ HalkPapa(個人開発者。以下「開発者」)は、地震情報確認アプ�
 
 本ポリシーに関するお問い合わせは、次の連絡先までお願いします。
 
-GitHub の Issues: <https://github.com/HalkPapa/app-policies/issues>
+- メール: bettersafethansorry-support@googlegroups.com
+- GitHub の Issues: <https://github.com/HalkPapa/app-policies/issues>
